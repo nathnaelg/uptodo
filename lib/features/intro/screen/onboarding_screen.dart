@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uptodo/features/intro/screen/start_screen.dart';
+import 'package:uptodo/features/auth/screen/start_screen.dart';
 import '../../../shared/widget/onboarding_page.dart';
 
 class OnboardingScreen extends StatefulWidget {

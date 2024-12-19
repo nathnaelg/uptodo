@@ -6,11 +6,8 @@ class StartScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Text(
-          'Welcome to the Home Screen!',
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
+      appBar: AppBar(
+        
       ),
     );
   }
